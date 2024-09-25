@@ -1,5 +1,5 @@
 # ToDo List App
-### Develop simple todo app which fetch data from api and done basic CRUD operation and show notification to smooth interaction with user using spinner.
+### Develop simple todo app which fetch data from api and done basic CRUD operation and show notification for smooth interaction with user using spinner library.
 
 ## Check live demo
  [Visit Now](https://todolist-app-gtha.onrender.com) 🚀
