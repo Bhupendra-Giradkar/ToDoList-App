@@ -18,7 +18,7 @@ const ShowTask = (props) => {
                 onClick={() => {
                   props.updateHandler(post, true);
                 }}
-                name="create  -outline"
+                name="create-outline"
               ></ion-icon>
               <ion-icon
                 onClick={() => {
